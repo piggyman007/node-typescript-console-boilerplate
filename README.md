@@ -14,6 +14,22 @@ npm run test
 
 ---
 
+## Run code coverage
+
+Code coverage analysis is integrated to this repository.
+
+The coverage report is located at `coverage` folder.
+
+The coverage threshold can be configured at `.nycrc`
+
+Run code coverage by following this command
+
+```
+npm run cover
+```
+
+---
+
 ## Run linter
 
 TSLint is configured in this project.

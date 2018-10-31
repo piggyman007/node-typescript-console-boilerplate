@@ -1,0 +1,19 @@
+{
+  "check-coverage": true,
+  "lines": 70,
+  "statements": 70,
+  "include": [
+    "index.ts"
+  ],
+  "exclude": [
+    "index.test.ts"
+  ],
+  "extension": [
+    ".ts"
+  ],
+  "reporter": [
+    "html",
+    "lcov"
+  ],
+  "all": true
+}
